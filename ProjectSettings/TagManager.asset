@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerOne
+  - PlayerTwo
+  - ProjectileP1
+  - ProjectileP2
+  - GameManager
+  - SpawnpointP1
+  - SpawnpointP2
+  - LivesTextP1
+  - LivesTextP2
+  - AudioManager
+  - Border
+  - Spear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerOne
+  - PlayerTwo
+  - ProjectileP1
+  - ProjectileP2
+  - Invincible
+  - SpikeBall
+  - SpearP1
+  - SpearP2
+  - PickUpSpear
+  - Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

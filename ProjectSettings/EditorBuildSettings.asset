@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Andrich/Menus/MainMenu.unity
+    guid: 64bb7ecb93e1b64499e572305e89c535
+  - enabled: 1
+    path: Assets/Scenes/Andrich/DeathMatch/DungeonDM.unity
+    guid: eaad5a646167dec4584a7d70eed1173f
+  - enabled: 1
+    path: Assets/Scenes/Andrich/DeathMatch/ParkDM.unity
+    guid: 3c8250f4fa694ff4d98501aad1e42781
+  - enabled: 1
+    path: Assets/Scenes/Andrich/SpearThrow/DungeonST.unity
+    guid: de6793200b3b1fc4bb52cc76f76e547f
+  - enabled: 1
+    path: Assets/Scenes/Andrich/SpearThrow/ParkST.unity
+    guid: b6ba3b5a4189dbb44a9635ff231ab2b9
+  - enabled: 1
+    path: Assets/Scenes/Andrich/SpikeBall/DungeonSB.unity
+    guid: 2849047f845a84b4ea944df8b95b7726
+  - enabled: 1
+    path: Assets/Scenes/Andrich/SpikeBall/ParkSB.unity
+    guid: 2e30d50bd9a012947bd0cd39d4a637d4
+  m_configObjects: {}
