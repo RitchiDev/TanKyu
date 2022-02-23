@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ae9b9dafe62bfa43bd102b68285e059
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_SelectSound: {fileID: 8300000, guid: e0800e911db90d44d9effc9ba692f9b9, type: 3}
+  - m_WinSound: {fileID: 8300000, guid: 197f5ef8dd24d8a4ab11cbe8d462bb0c, type: 3}
+  - m_WinScreen: {instanceID: 0}
+  - m_WinImageP1: {instanceID: 0}
+  - m_WinImageP2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a3aa2b30dc1ba944e8352aca62f1dc64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_SelectSound: {fileID: 8300000, guid: e0800e911db90d44d9effc9ba692f9b9, type: 3}
+  - m_ChangeSound: {fileID: 8300000, guid: 3c78083e58c1db84c98753ed3dc489ca, type: 3}
+  - m_BackSound: {fileID: 8300000, guid: 79a0766fee851c642a2842c217834cb4, type: 3}
+  - m_ShowMenu: {instanceID: 0}
+  - m_ShowArenas: {instanceID: 0}
+  - m_ShowControls: {instanceID: 0}
+  - m_GameMode: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

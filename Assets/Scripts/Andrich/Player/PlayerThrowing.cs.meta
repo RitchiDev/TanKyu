@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f876ad8cfcc64540a52e6bdcefaf0f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ShootSound: {fileID: 8300000, guid: 0b4e4dd6bc08a5d47a6e903ba87f7e2b, type: 3}
+  - m_SpearPrefab: {fileID: 3739692657288280380, guid: 42f4c9d954bb93948a061b187e8ef912,
+      type: 3}
+  - m_Crosshair: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

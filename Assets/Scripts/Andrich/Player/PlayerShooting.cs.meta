@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 21a9866695475044398abf7e54b080d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ShootSound: {fileID: 8300000, guid: 0b4e4dd6bc08a5d47a6e903ba87f7e2b, type: 3}
+  - m_ProjectilePrefab: {instanceID: 0}
+  - m_Crosshair: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

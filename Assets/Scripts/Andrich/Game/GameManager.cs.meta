@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b079e2fc5273b5d42a4b33ff2edcf3b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_SpawnSound: {fileID: 8300000, guid: 32df7c6b2c06b3b40824555c6b85a013, type: 3}
+  - m_WinSound: {fileID: 8300000, guid: 197f5ef8dd24d8a4ab11cbe8d462bb0c, type: 3}
+  - m_CountdownAnimation: {fileID: 6757981702103252034, guid: d624e1ace09024c41aa03d884b6dfb74,
+      type: 3}
+  - m_RedSpawnEffect: {fileID: 6827007157743168077, guid: 3cce5dac341df4b4aa01763f3706a081,
+      type: 3}
+  - m_BlueSpawnEffect: {fileID: 3566353967970573068, guid: 469ca1ee18cce0747b6eb90fa90313af,
+      type: 3}
+  - m_RedDeathEffect: {fileID: 3056605196304907611, guid: 22308d53656d31a4795878b7193171bc,
+      type: 3}
+  - m_BlueDeathEffect: {fileID: 7589905457855237052, guid: 9b7764301a926c74c98659ae385acf04,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
